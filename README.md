@@ -1,11 +1,11 @@
-# 🚀 Ultimate Data Science Challenge – Springboard
+# Ultimate Data Science Challenge – Springboard
 
 ### Author: [Mesfin Kebede](https://github.com/mesfin-k)
 ### Repository: [Ultimate-Data-Science-Challenge-Solution](https://github.com/mesfin-k/Ultimate-Data-Science-Challenge-Solution)
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 This repository contains my complete solution for the **Ultimate Data Science Challenge** — a real-world data science case study provided by Springboard.  
 The goal is to analyze user behavior, design an experiment, and build a predictive model for rider retention.
 
@@ -16,7 +16,7 @@ The challenge is divided into **three main parts**:
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 | File | Description |
 |------|--------------|
 | `logins.json` | Simulated user login timestamps for Part 1 |
@@ -29,7 +29,7 @@ The challenge is divided into **three main parts**:
 
 ---
 
-## 🧮 Part 1 – Exploratory Data Analysis (Logins)
+## Part 1 – Exploratory Data Analysis (Logins)
 
 **Goal:**  
 Aggregate login counts into **15-minute intervals** and visualize temporal patterns.
@@ -41,7 +41,7 @@ Aggregate login counts into **15-minute intervals** and visualize temporal patte
 
 ---
 
-## 🧪 Part 2 – Experiment & Metrics Design
+## Part 2 – Experiment & Metrics Design
 
 **Scenario:**  
 Two neighboring cities (Gotham and Metropolis) have different active hours.  
@@ -55,7 +55,7 @@ A toll bridge discourages drivers from serving both cities. Management proposes 
 
 ---
 
-## 🤖 Part 3 – Predictive Modeling (Retention)
+## Part 3 – Predictive Modeling (Retention)
 
 **Goal:** Predict if a user will be active in their 6th month.  
 
@@ -83,21 +83,21 @@ A toll bridge discourages drivers from serving both cities. Management proposes 
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 - **Python:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn  
 - **Jupyter Notebook:** Analysis, visualization, and documentation  
 - **Validation:** GridSearchCV, Cross-Validation, Bootstrap CI  
 
 ---
 
-## 📈 Results Summary
+## Results Summary
 - Identified patterns in rider activity and retention behavior.  
 - Built a robust model (AUC 0.86) to predict customer churn.  
 - Designed a statistically sound experiment to improve cross-city driver engagement.  
 
 ---
 
-## 🧠 Key Learning Outcomes
+## Key Learning Outcomes
 - Time-series aggregation and visualization  
 - Statistical experiment design and evaluation  
 - Machine learning model tuning and performance validation  
@@ -105,7 +105,8 @@ A toll bridge discourages drivers from serving both cities. Management proposes 
 
 ---
 
-## 📬 Contact
+## 
+Contact
 **Mesfin Kebede**  
 📧 [mesfin.k.kebede@gmail.com](mailto:mesfin.k.kebede@gmail.com)  
 🌐 [LinkedIn Profile](https://www.linkedin.com/in/mesfin-kebede/)  
